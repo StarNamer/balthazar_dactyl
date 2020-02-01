@@ -1,5 +1,10 @@
+# Balthazar Keyboard - Daktil
+  
+Balthzar Daktil Keyboard is a fork of [the Dactyl](https://github.com/adereth/dactyl-keyboard), a parameterized, split-hand, concave, columnar, ergonomic keyboard. It is an in progress prototype for the keyboard of the Balthazar personal computing device, in the form of the [Dactyl manuform variant](https://github.com/abstracthat/dactyl-manuform).
+
+You can find the QMK firmware that we use in this development [here](https://github.com/g1smo/qmk_firmware). 
+
 # The Dactyl-ManuForm Keyboard
-This is a fork of the [Dactyl](https://github.com/adereth/dactyl-keyboard), a parameterized, split-hand, concave, columnar, ergonomic keyboard.
 
 ![Imgur](http://i.imgur.com/LdjEhrR.jpg)
 
